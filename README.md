@@ -1,6 +1,6 @@
-# Machine Learning Projects
+# Machine Learning Project
 
-This repository contains a collection of machine learning models for various tasks, including classification and regression.
+This repository contains a collection of machine learning models for various tasks, including classification , clustring and regression.
 
 ---
 
